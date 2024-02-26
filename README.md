@@ -1,12 +1,13 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! I'm Güney Balcı and a passionate Full-Stack Developer from Turkey.</h2>
+<h2 align="left">Hi 👋! I'm Güney Balcı and a passionate Full-Stack Developer from Turkey.</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
+  <h1 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -22,13 +23,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  </h1>
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
+  <h1 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -56,13 +59,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
+  </h1>
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
+  <h1 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -76,13 +81,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  </h1>
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
+  <h1 align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
@@ -92,13 +99,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  </h1>  
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
+  <h1 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/powershell/5391FE" height="30" alt="powershell logo"  />
@@ -108,13 +117,14 @@
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  </h1>
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/balciguney/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
